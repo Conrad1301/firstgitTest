@@ -1,4 +1,4 @@
-# git test
+# firstgitTest
 github 테스트 프로젝트
 
 # github 사용법
